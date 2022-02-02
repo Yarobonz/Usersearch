@@ -1,5 +1,5 @@
-https://reddit.com/u/
-https://twitter.com/
-https://www.facebook.com/
-https://www.instagram.com/
-https://github.com/
+https://reddit.com/u/{USERNAME}
+https://twitter.com/{USERNAME}
+https://www.facebook.com/{USERNAME}
+https://www.instagram.com/{USERNAME}/?__a=1
+https://github.com/{USERNAME}
